@@ -10,4 +10,4 @@ There is also a smoothing effect to reduce noise / shaking.
 ![2](https://github.com/John-Moore-UOA/Center-Stage-PC/blob/main/Screenshot%202025-03-11%20211930.png)
 
 ## Eye detection
-![3](https://github.com/John-Moore-UOA/Center-Stage-PC/blob/main/Screenshot%202025-03-11%20211855.png](https://github.com/John-Moore-UOA/Centre-Stage-PC/blob/main/eye%20detection.png)
+![3](https://github.com/John-Moore-UOA/Centre-Stage-PC/blob/main/eye%20detection.png](https://github.com/John-Moore-UOA/Centre-Stage-PC/blob/main/center_stage.py))](https://github.com/John-Moore-UOA/Centre-Stage-PC/blob/main/center_stage.py)
