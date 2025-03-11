@@ -13,5 +13,6 @@ There is also a smoothing effect to reduce noise / shaking.
 I am not sure where I want to take this.
 Perhaps this could morph into another project where I triangleulate the direction the face is pointing, and therefore move the mouse cursor.  
 Then purhaps you could smile to click.
+
 ![3](https://github.com/John-Moore-UOA/Centre-Stage-PC/blob/main/eye%20detection.png)
 
